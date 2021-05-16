@@ -1,7 +1,7 @@
-# 维护网站教程
+# Container the web
 course of maintaining the website
 
-[回到主页](/)
+[back to home](/)
 
 You can use the [editor on GitHub](https://github.com/yqt920/yqt920.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
